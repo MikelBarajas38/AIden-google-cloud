@@ -1,3 +1,3 @@
 # AI-den-GCS
-# AIden-google-cloud
-# AIden-google-cloud
+
+Google cloud stuff for AIden (TalentLand2024)
